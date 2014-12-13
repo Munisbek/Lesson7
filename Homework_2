@@ -1,0 +1,93 @@
+Lesson7
+=======
+<!doctype html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>My Website</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <!-- Bootstrap -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+</head>
+
+<body style="background-color: #acf1f6">
+<hr>
+<div class="container">
+    <div class="row">
+        <div class="col-md-8 pull-right">
+
+            <h1> Our Veterinarians Bring Extensive Experience</h1>
+
+                <p>Wisdom Pet Medicine was founded by Dr. Darren Winthrop, Dr. Elizabeth Chase,
+                    and Dr. Kimberly Sanders to bring the best in traditional and alternative
+                    medicine to the local community. The three doctors met while pursuing their
+                    veterinary education at Colorado State University, one of the nation&rsquo;s
+                    top-rated vet schools. After going their own ways (for almost a decade), to
+                    work for different veterinary clinics across the country, the doctors
+                    decided it was time to combine their diverse knowledge and skills under one
+                    practice at Wisdom Pet Medicine.</p>
+
+                <p> Staying up on the latest technology and procedures, empowers us to diagnose
+                    and treat more conditions in-hose, rather than having to ship your pet out
+                    to a specialist&rsquo;s office. Our goal is to help keep your love ones
+                    comfortable by keeping them in friendly and familiar surroundings for the
+                    duration of their care. </p>
+<div class="row">
+                <div class="col-md-4">
+                    <img src="img/winthrop.jpg" alt="Dr. Winthrop with his dog, Missy"
+                         title="Dr. Winthrop with his dog, Missy">
+
+                    <p>Dr. Winthrop is the guardian of Missy, a three-year old Llaso mix, who he
+                        adopted at the shelter (he just couldn&rsquo;t resist those sad eyes). Dr.
+                        Winthrop is passionate about spay and neuter and pet adoption, and works
+                        tireless hours outside the clinic, performing free spay and neuter surgeries
+                        for the shelter.</p>
+                </div>
+    <div class="col-md-4">
+        <img src="img/chase.jpg" alt="Dr Chase with Kibbles" width="220" height="300"
+             title="Dr Chase with Kibbles">
+
+        <p>Dr. Chase spends much of her free time helping the local bunny rescue
+            organization find homes for bunnies, such as Kibbles. This cuddly Dalmatian
+            bunny is part of the large Chase household, which also includes two dogs,
+            three cats, and a turtle.</p>
+    </div>
+                <div class="col-md-4">
+                    <img src="img/sanders.jpg" alt="Dr. Sanders with Leroy"
+                         title="Dr. Sanders with Leroy">
+
+                    <p>Leroy walked into Dr. Sanders&rsquo; front door when she was moving into a
+                        new house. After searching for weeks for Leroy&rsquo;s guardians, she
+                        decided to make Leroy a part of her pet family. Leroy has settled into his
+                        new home, and especially enjoys playing with Dr. Sanders&rsquo; other
+                        cats.</p>
+                </div>
+</div>
+</div>
+
+
+        <div class="col-md-3 pull-left">
+            <img src="img/sick-puppy.jpg">
+
+            <h2> We specialize in: </h2>
+            <ul>
+                <li>General Wellness Care</li>
+                <li>Preventative Care</li>
+                <li>Emergency Care</li>
+                <li>Vaccinations</li>
+                <li>Diagnostics</li>
+                <li>Orthopedics</li>
+                <li>Dermatology</li>
+                <li>Oncology</li>
+                <li>Radiology</li>
+                <li>Ultrasound</li>
+            </ul>
+</div>
+
+</div>
+
+
+</div>
+<hr>
+</body>
+</html>
